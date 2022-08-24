@@ -31,7 +31,7 @@ npm i jest
  When finished, a team.html file will be created.
 
 ## Video
-[Link to the video]()
+[Link to the video](https://drive.google.com/file/d/141fwrMhenIWQcDrW-IUbqWu7HNGLgNGW/view)
 
 ## Techs
 
