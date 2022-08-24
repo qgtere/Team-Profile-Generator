@@ -1,0 +1,46 @@
+:root {    
+    --white: #FFFFFF;
+    --black: #4E4F4B;
+    --title: #FF5A5F;
+    --manager: #0B3954;
+    --engineer: #0979B0;
+    --intern: #087E8B;
+
+  }
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+h1 {
+    background-color: var(--title);
+    color: var(--white);
+    text-align: center;
+    padding: 10px;  
+    margin-bottom: 50px;  
+}
+
+.shadowCard {
+    box-shadow: 2px 2px 5px var(--black);
+}
+
+.manager {
+    background-color: var(--manager);
+    color: var(--white);
+}
+.engineer {
+    background-color: var(--engineer);
+    color: var(--white);
+}
+.intern {
+    background-color:  var(--intern);
+    color: var(--white);
+}
+
+
